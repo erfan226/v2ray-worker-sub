@@ -1,0 +1,39 @@
+{
+
+   "name": "v2ray-worker-sub",
+
+    "version": "1.0.0",
+
+"description": "",
+
+   "scripts": {
+
+"build": "echo \"No build specified\" && exit 1",
+
+     "test": "echo \"No test specified\" && exit 1",
+
+"start": "node index.js"
+
+    },
+
+    "repository": {
+
+        "type": "git",
+
+        "url": "git+https://github.com/erfan226/v2ray-worker-sub.git"
+
+    },
+
+    "author": "",
+
+    "license": "ISC",
+
+    "bugs": {
+
+        "url": "https://github.com/erfan226/v2ray-worker-sub/issues"
+
+    },
+
+    "homepage": "https://github.com/erfan226/v2ray-worker-sub#readme"
+
+}
