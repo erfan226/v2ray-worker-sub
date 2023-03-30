@@ -9,7 +9,7 @@
    "scripts": {
 
 
-"start": "worker.js"
+"start": "node worker.js"
 
     },
 
